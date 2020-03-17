@@ -13,11 +13,13 @@ end
 def division(num1, num2)
   num1
   num2
-  qu
+  qutient
 end
 
 def multiplication(num1, num2)
-
+  num1 =
+  num2 =
+  product = 
 end
 
 def modulo(num1, num2)
