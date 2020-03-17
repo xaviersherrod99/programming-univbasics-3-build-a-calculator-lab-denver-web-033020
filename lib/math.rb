@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num1 =
-  num2 =
-  product = 
+  num1 =81
+  num2 =9
+  banana = (num1/num2)
 end
